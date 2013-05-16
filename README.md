@@ -1,7 +1,7 @@
 #Boots of Khan
 ##Template for Turning KhanAcademy projects into independent web apps based on [this blog post](http://www.petercollingridge.co.uk/blog/running-khan-academy-programs-your-computer).
 
-All you have to do is paste your KhanAcademy code into the code.js file, and you're ready to run it!
+All you have to do is paste your KhanAcademy code into the code.js file at the designated line, and you're ready to run it!
 
 ###Please note:
 Many browsers will not allow this web page to run out of local files without either disabling some browser security (not suggested) or running the containing folder as a web server.
