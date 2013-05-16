@@ -18,6 +18,6 @@ Now here's my pitch for why it's worth installing Node.js to get this simple htt
 
 If you're using Khan Academy, you're using Javascript, and if you're using Javascript, installing Node will give you a javascript interpreter in your command line, and you can run very efficient web interaction code with it, too.
 
-Now I'm off my soap box.  If you want to disallow chrome's security from your command line, type:
+Now I'll get off my soap box.  If you want to disallow chrome's security from your command line, type:
 
 	chrome --allow-file-acess-from-files
