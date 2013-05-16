@@ -1,5 +1,5 @@
 #Boots of Khan
-##Template for Turning KhanAcademy projects into independent web apps based on [this blog post](http://www.petercollingridge.co.uk/blog/running-khan-academy-programs-your-computer).
+##Template for Bootstrapping KhanAcademy projects into independent web apps based on [this blog post](http://www.petercollingridge.co.uk/blog/running-khan-academy-programs-your-computer).
 
 All you have to do is paste your KhanAcademy code into the code.js file at the designated line, and you're ready to run it!
 
