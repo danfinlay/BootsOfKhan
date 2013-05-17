@@ -1,5 +1,6 @@
-#Boots of Khan
+#Boots of Khan - Only Partially Functional
 ##Template for Bootstrapping KhanAcademy projects into independent web apps based on [this blog post](http://www.petercollingridge.co.uk/blog/running-khan-academy-programs-your-computer).
+Currently, while the following instructions generally do work, the way they are being interpreted is creating slightly unusual results, in particular drawing to the screen is not rendering properly.  This should be considered a work in progress, and a jumping off point for anyone interested in this same goal.
 
 All you have to do is paste your KhanAcademy code into the code.js file at the designated line, and you're ready to run it!
 
